@@ -1,16 +1,34 @@
-### Hi there 👋
+<div>
+  <h1 align="left">Jéssica Fernandes
+    <a href="https://www.linkedin.com/in/jessicafmota/">
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    </a>
+  </h1>
+</div>
 
-<!--
-**JessicaMotaa/JessicaMotaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! Bonjour!! 🌹
 
-Here are some ideas to get you started:
+Sou formada em fisioterapia e, atualmente, estou em transição de carreira! 💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Technologies & Tools 
+
+### I am learning 📚📖
+
+<div>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
+</div>
+
+##
+
+<div>
+  <p align="center">
+    <a href="https://github.com/JessicaMotaa">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMotaa&layout=compact&langs_count=7&theme=material-palenight"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaMotaa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  </p>
+</div>
