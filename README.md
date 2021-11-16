@@ -28,7 +28,7 @@ Sou formada em fisioterapia e, atualmente, estou em transição de carreira! �
 <div>
   <p align="center">
     <a href="https://github.com/JessicaMotaa">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMotaa&layout=compact&langs_count=7&theme=material-palenight"/>
-       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JessicaMotaa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMotaa&layout=compact&langs_count=7&theme=material-palenight"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaMotaa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   </p>
 </div>
