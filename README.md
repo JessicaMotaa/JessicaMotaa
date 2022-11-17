@@ -8,7 +8,7 @@
 
 ## Hi there! Bonjour!! 🌹
 
-Sou formada em fisioterapia e, atualmente, estou em transição de carreira! 💜
+Sou estudante de análise e desenvolvimento de sistemas e formada em desenvolvimento web full stack Java/Angular pelo transforma-se, programa de capacitação oferecido pela parceiria entre Serasa Experian e Digital House. Atualmente, starter na Capgemini! 💜
 
 ## ⚙️ Technologies & Tools 
 
